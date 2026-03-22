@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+nexus_ai/__pycache__/
+nexus_ai/agents/__pycache__/
+nexus_ai/memory/__pycache__/
+nexus_ai/tools/__pycache__/
+tests/__pycache__/
+*.pyc
+output/
+outputs/
+data/
+memory/
+logs/*.log
+logs/*_trace.json
