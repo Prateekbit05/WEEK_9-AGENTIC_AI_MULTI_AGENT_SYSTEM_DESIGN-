@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+agents/__pycache__/
+api/__pycache__/
+memory/__pycache__/
+orchestrator/__pycache__/
+workers/__pycache__/
+tests/__pycache__/
+*.pyc
+=*/
+logs/
+data/tasks.db
+data/agent_registry.json
+data/execution_graph.json
+models/
