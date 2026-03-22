@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+agents/__pycache__/
+memory/__pycache__/
+tools/__pycache__/
+tests/__pycache__/
+*.pyc
+logs/
+output/
+data/agentic_ai.db
