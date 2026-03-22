@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+agents/__pycache__/
+memory/__pycache__/
+tests/__pycache__/
+*.pyc
+logs/
+output/
+memory/vector.index
+memory/vector_meta.pkl
+data/
