@@ -281,3 +281,35 @@ Trace file structure:
 - [x] 4 benchmark tasks solved end-to-end
 
 ---
+
+## 📸 Screenshots
+
+### Full Agent Execution in Terminal
+> Shows all 9 agents being called in sequence during a live task run
+
+![Terminal Run](Screenshots/terminal_run.png)
+
+### Streamlit Dashboard
+> Real-time agent activity monitor showing task flow and outputs
+
+![Dashboard 1](Screenshots/dashboard_1.png)
+
+![Dashboard 2](Screenshots/dashboard_2.png)
+
+### Sample Generated Reports
+> Example outputs from NEXUS AI solving real benchmark tasks
+
+![Output Report](Screenshots/output_report.png)
+
+![Output Report 2](Screenshots/output_report_2.png)
+
+![Output Report 3](Screenshots/output_report_3.png)
+
+![Output Report 4](Screenshots/output_report_4.png)
+
+### Execution Trace JSON
+> Structured trace file showing agent handoff sequence and task status
+
+![Trace Log](Screenshots/trace_log.png)
+
+---
