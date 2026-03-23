@@ -307,6 +307,10 @@ Trace file structure:
 
 ![Output Report 4](Screenshots/output_report_4.png)
 
+## 🎥 Demo Video
+
+[▶ Watch NEXUS AI Demo](DEMO-VIDEO.webm)
+
 ### Execution Trace JSON
 > Structured trace file showing agent handoff sequence and task status
 
