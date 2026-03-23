@@ -2,6 +2,11 @@
 > **Week 9 | Day 5 Capstone | Agentic AI & Multi-Agent System Design**
 > A production-grade autonomous AI system with 9 specialized agents, tool use, memory recall, self-reflection, and multi-step planning.
 
+## 🎥 Demo
+
+![NEXUS AI Demo](Screenshots/demo.gif)
+
+---
 ---
 
 ## 📌 Overview
