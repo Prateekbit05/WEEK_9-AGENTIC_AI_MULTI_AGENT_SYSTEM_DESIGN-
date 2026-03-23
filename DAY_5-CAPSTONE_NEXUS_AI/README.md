@@ -2,10 +2,6 @@
 > **Week 9 | Day 5 Capstone | Agentic AI & Multi-Agent System Design**
 > A production-grade autonomous AI system with 9 specialized agents, tool use, memory recall, self-reflection, and multi-step planning.
 
-## 🎥 Demo
-
-![NEXUS AI Demo](Screenshots/demo.gif)
-
 ---
 ---
 
@@ -314,7 +310,9 @@ Trace file structure:
 
 ## 🎥 Demo Video
 
-[▶ Watch NEXUS AI Demo](DEMO-VIDEO.webm)
+![NEXUS AI Demo](Screenshots/demo.gif)
+
+[▶ Watch Full Demo Video](DEMO-VIDEO.webm)
 
 ### Execution Trace JSON
 > Structured trace file showing agent handoff sequence and task status
