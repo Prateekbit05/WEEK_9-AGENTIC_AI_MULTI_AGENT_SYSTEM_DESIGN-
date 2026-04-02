@@ -312,8 +312,6 @@ Trace file structure:
 
 ![NEXUS AI Demo](Screenshots/demo.gif)
 
-[▶ Watch Full Demo Video](DEMO-VIDEO.webm)
-
 ### Execution Trace JSON
 > Structured trace file showing agent handoff sequence and task status
 
